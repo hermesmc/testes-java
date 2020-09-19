@@ -12,7 +12,6 @@
 <fullyQualifiedTypeName name="br.com.bytebank.banco.test.util.NumeroDaContaCOmparator"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.test.util.NumeroDaContaComparator"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
-<fullyQualifiedTypeName name="java.util.Comparator"/>
 <fullyQualifiedTypeName name="br.com.bytebank.banco.test.util.TitularDaContaComparator"/>
 <fullyQualifiedTypeName name="java.lang.Comparable"/>
 <fullyQualifiedTypeName name="java.lang.Double"/>
@@ -44,4 +43,5 @@
 <fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
 </qualifiedTypeNameHistroy>

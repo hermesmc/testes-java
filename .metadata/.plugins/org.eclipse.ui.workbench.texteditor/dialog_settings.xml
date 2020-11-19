@@ -7,6 +7,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="palavras.forEach(&#x09;&#x09;Consumer&lt;String&gt; consumidor = new Consumer&lt;String&gt;() {"/>
 			<item value="valor1"/>
 		</list>
 		<list key="replacehistory">
